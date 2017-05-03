@@ -11,6 +11,7 @@ dependencies:
   - taxonomy
   - text
   - user
+  - default_content
 default_content:
   user:
     - 912eea83-5c5e-4d17-823a-a6920f442f1f
