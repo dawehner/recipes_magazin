@@ -1,0 +1,13 @@
+name: recipes_magazin
+type: module
+core: 8.x
+dependencies:
+  - comment
+  - field
+  - file
+  - image
+  - node
+  - options
+  - taxonomy
+  - text
+  - user

@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies: {  }
+id: recipe_review
+label: 'Recipe review'
+target_entity_type_id: node
+description: ''
