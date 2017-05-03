@@ -1,4 +1,4 @@
-name: recipes_magazin
+name: Recipes Magazin
 type: module
 core: 8.x
 dependencies:
@@ -11,3 +11,30 @@ dependencies:
   - taxonomy
   - text
   - user
+default_content:
+  user:
+    - 912eea83-5c5e-4d17-823a-a6920f442f1f
+  node:
+    - 0a745295-fc64-4542-8116-3f687f383e10
+  taxonomy_term:
+    - 29b27be6-6ace-41a3-aa0b-43a4f02bd3bd
+    - 641cb9c5-5dca-4fdd-b462-c5dd5128cb7b
+    - a9c82487-3815-4f05-85ca-a1245a383913
+    - 4d5bb68c-7469-4012-8106-9f4cba47cb9b
+    - aa500f8c-5515-4678-be12-d18e5e6dd3fd
+    - 7ed75c99-97f4-4fc8-964c-0447a0a5f83b
+    - a7218274-9ba9-45f0-b108-b47d698dc26c
+    - 9d5fcc0d-214f-4362-9982-8ccc5cffa5bd
+    - 003baf67-b142-480f-ab5a-fa0e680581f6
+    - 4d0cc3a2-8943-4cb6-9d79-2239d1d0eca6
+    - c44f2d92-21ea-4951-821b-e5daaae93fee
+    - 6b550f50-a1da-4a9e-95dc-cc55f235a67c
+    - 535fa595-f5d1-4741-98f3-b55228df2475
+    - f8d50aee-5c4f-409a-aaec-2980267c83c2
+    - 7df61e14-455e-4674-8ffd-0a1e0d8e32c9
+    - 133783a4-f9f2-40ac-90df-97b6ca61e88a
+    - f4d19655-93fe-4b31-90b8-387df3ebc2e3
+    - 1ada9d36-d7cb-4e81-be2b-3ed200065dea
+    - d4366616-be18-4e01-90c6-be7a888a458a
+    - 8e32a213-6d27-442b-816c-fa1bc69ac3ba
+
